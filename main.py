@@ -20,7 +20,7 @@ def courbeEQ(vol_a_b):
     plt.show()
 
 
-courbeEQ(3.39)
+courbeEQ(1.78)
 
 def McabeThiele(xd, xb, R):
   #Construction de McAbe Thiel
