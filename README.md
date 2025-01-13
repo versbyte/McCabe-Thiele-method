@@ -40,6 +40,7 @@ The McCabe-Thiele method is a graphical technique used to determine the number o
    cd your-repo
 
 2. Install the required dependencies:
+    ```bash
     pip install numpy matplotlib scipy
 
 ## Usage
