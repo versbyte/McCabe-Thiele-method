@@ -158,7 +158,7 @@ def McabeThiele(xa, xd, xb, R, q, Pa, Pb, nm):
 
   plt.xlabel('x (Mole fraction of component A in liquid)')
   plt.ylabel('y (Mole fraction of component A in vapor)')
-  plt.title("McCabe-Thiele Diagram [versbyte]")
+  plt.title("McCabe-Thiele Diagram")
   plt.xlim(0,1)
   plt.ylim(0,1)
   plt.grid()

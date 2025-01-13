@@ -2,6 +2,8 @@
 
 This Python script generates a **McCabe-Thiele diagram** for binary distillation processes. It calculates and visualizes the equilibrium curve, operating lines (rectifying and stripping sections), q-line, and steps off the theoretical trays required for separation. The diagram is useful for understanding and designing distillation columns.
 
+![McCabe-Thiele Diagram](McCabe-Thiele-Demo.png)
+
 ---
 
 ## Table of Contents
