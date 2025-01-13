@@ -54,7 +54,7 @@ The McCabe-Thiele method is a graphical technique used to determine the number o
 ---
 
 ```python
-from your_script import McabeThiele
+from main import McabeThiele
 
 # Define parameters
 xf = 0.458  # Feed composition
