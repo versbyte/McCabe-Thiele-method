@@ -52,6 +52,7 @@ The McCabe-Thiele method is a graphical technique used to determine the number o
 
 ---
 
+```python
 from your_script import McabeThiele
 
 # Define parameters
