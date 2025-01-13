@@ -11,8 +11,6 @@ This Python script generates a **McCabe-Thiele diagram** for binary distillation
 - [Usage](#usage)
 - [Parameters](#parameters)
 - [Example](#example)
-- [Dependencies](#dependencies)
-- [License](#license)
 
 ---
 
